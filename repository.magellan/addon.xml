@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.magellan" name="Repo Magellan Github" version="1.0" provider-name="Ike">
+	<extension point="xbmc.addon.repository" name="repository.magellan">
+		<info compressed="false">http://raw.github.com/Ikesantos/repository.magellan/master/addons.xml</info>
+		<checksum>http://raw.github.com/ikesantos/repository.magellan/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/Ikesantos/repository.magellan/master/repo/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Nagellan.Github</summary>
+		<description>Magellan.Repo.Github</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
